@@ -9,7 +9,7 @@ This is an introduction
 - [ ] thing to do 2
 - [ ] ting to do 3
 
-~~this is something I need to do ~~
+~~this is something I need to do~~
 
 *this is in italics*
 
