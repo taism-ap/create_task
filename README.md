@@ -3,8 +3,6 @@ My AP CSP Create Task
 ## Introduction
 This is an introduction
 
-## App Lab Link
-https://studio.code.org/projects/applab/X7XyQpFylQCiteM6KumooqEvs89edyiZI411_HjnREw
 
 ## ToDo 
 
